@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5db7d1b9-4543-4713-835d-13a1f45efc62" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guess_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guess_paper_scissors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spell_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/disappear_tic_tac_toe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guess_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/guess_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guess_paper_scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/guess_paper_scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spell_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/spell_check.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,12 +24,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3IAlyxqQ0HKGngswWtJyGGRV3YT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,11 +38,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.disappear_tic_tac_toe.executor": "Run",
     "Python.guess_number.executor": "Run",
     "Python.guess_paper_scissors.executor": "Run",
     "Python.spell_check.executor": "Run",
+    "Python.tic_tac_toe.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"

@@ -1,3 +1,9 @@
+"""
+猜数字游戏
+知识点：random、while循环、条件判断、类型转换
+玩法：程序随机生成一个1~100之间的整数，玩家输入猜测，提示大了或小了，直到猜中。
+"""
+
 import  random
 def guess_number():
         secret = random.randint(1,100)

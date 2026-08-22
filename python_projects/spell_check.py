@@ -1,3 +1,9 @@
+"""
+单词拼写检查器
+知识点：文件读取、集合操作、字符串处理
+玩法：输入单词，检查是否在预置单词库中。
+"""
+
 word_list = [
     "apple", "banana", "cat", "dog", "elephant",
     "fish", "grape", "hello", "ice", "jacket",
